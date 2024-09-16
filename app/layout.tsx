@@ -13,6 +13,7 @@ const geistMono = localFont({
   weight: "100 900",
 });
 
+/*
 const Poppins = localFont({
   src: "./fonts/Poppins.ttf",
   variable: "--font-poppins",
@@ -23,6 +24,7 @@ const SpaceMono = localFont({
   variable: "--font-space-mono",
   weight: "300 900",
 });
+*/
 
 export const metadata: Metadata = {
   title: "lazydukk",
